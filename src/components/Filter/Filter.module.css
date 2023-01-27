@@ -1,0 +1,24 @@
+.container {
+    width: 800px;
+    display: block;
+    margin-top: auto;
+    margin-left: 170px;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(33, 33, 33);
+}
+
+.input {
+    width: 200px;
+    cursor: pointer;
+    margin: 0px;
+    padding: 11px 12px 11px 42px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(33, 33, 33, 0.2);
+    border-image: initial;
+    border-radius: 4px;
+    transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0s;
+}

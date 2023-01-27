@@ -1,0 +1,18 @@
+.container {
+    width: 1200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0px auto;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(33, 33, 33);
+    
+}
+
+.title {
+    text-align: center;
+}
+
+
+
